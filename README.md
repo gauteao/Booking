@@ -3,8 +3,8 @@ Assignment 2 - Thread Synchronization
 ## Description
 The goal of this assignment is to learn about thread synchronization.
 This is done by creating a program that simulates a ticket booking system.
-The program has a class called "MovieTicketServer" which has a method called "BookTicket(), which is used to book a ticket for a movie".
-The main class simulated four client on four different threads trying to book tickets for the same movie.
+The program has a class called "MovieTicketServer" which has a method called "BookTicket()", which is used to book a ticket for a movie.
+The main class simulates four clients on four different threads trying to book tickets for the same movie.
 
 To run this program, simply run the Main.java file. 
 The program already has four example threads.
