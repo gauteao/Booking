@@ -1,0 +1,9 @@
+
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ü¡8â¬ËÑŞ1
+L	java:S106"+Replace this use of System.out by a logger.(óÀÌûÿÿÿÿ8å¬ËÑŞ1
+G	java:S106"+Replace this use of System.out by a logger.(Û€„˜8å¬ËÑŞ1
+L	java:S106"+Replace this use of System.out by a logger.(ÕÑèíşÿÿÿÿ8æ¬ËÑŞ1
+M
+java:S1068"0Remove this unused "customerName" private field.(š£»Á8æ¬ËÑŞ1
+S
+java:S1068"1Remove this unused "numberOfSeats" private field.(ìÚ»øÿÿÿÿ8æ¬ËÑŞ1
